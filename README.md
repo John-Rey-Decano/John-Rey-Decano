@@ -1,6 +1,11 @@
-<p align="center">
-### Hi there, I am John Rey 👋
-</p>
+<div align="center">
+
+#  𝐇𝐢 𝐭𝐡𝐞𝐫𝐞, 𝐈 𝐚𝐦 𝐉𝐨𝐡𝐧 𝐑𝐞𝐲 👋
+
+
+</div>
+
+
 
 
 <!--
