@@ -1,5 +1,5 @@
 <p align="center">
-// ### Hi there, I am John Rey 👋
+### Hi there, I am John Rey 👋
 </p>
 
 
