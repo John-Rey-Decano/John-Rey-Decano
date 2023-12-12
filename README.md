@@ -1,4 +1,7 @@
-### Hi there, I am John Rey 👋
+<p align="center">
+// ### Hi there, I am John Rey 👋
+</p>
+
 
 <!--
 **John-Rey-Decano/John-Rey-Decano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
